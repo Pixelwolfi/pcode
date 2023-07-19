@@ -1,3 +1,3 @@
-# pcode
-these are my exercises.
+
+this is just an exercise.
 feel free to  comment :)
